@@ -1,0 +1,14 @@
+C:\Users\abner\OneDrive\Área de Trabalho\C#\Udemy\Herança\Herança\bin\Debug\netcoreapp3.1\Herança.exe
+C:\Users\abner\OneDrive\Área de Trabalho\C#\Udemy\Herança\Herança\bin\Debug\netcoreapp3.1\Herança.deps.json
+C:\Users\abner\OneDrive\Área de Trabalho\C#\Udemy\Herança\Herança\bin\Debug\netcoreapp3.1\Herança.runtimeconfig.json
+C:\Users\abner\OneDrive\Área de Trabalho\C#\Udemy\Herança\Herança\bin\Debug\netcoreapp3.1\Herança.runtimeconfig.dev.json
+C:\Users\abner\OneDrive\Área de Trabalho\C#\Udemy\Herança\Herança\bin\Debug\netcoreapp3.1\Herança.dll
+C:\Users\abner\OneDrive\Área de Trabalho\C#\Udemy\Herança\Herança\bin\Debug\netcoreapp3.1\Herança.pdb
+C:\Users\abner\OneDrive\Área de Trabalho\C#\Udemy\Herança\Herança\obj\Debug\netcoreapp3.1\Herança.csproj.AssemblyReference.cache
+C:\Users\abner\OneDrive\Área de Trabalho\C#\Udemy\Herança\Herança\obj\Debug\netcoreapp3.1\Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abner\OneDrive\Área de Trabalho\C#\Udemy\Herança\Herança\obj\Debug\netcoreapp3.1\Herança.AssemblyInfoInputs.cache
+C:\Users\abner\OneDrive\Área de Trabalho\C#\Udemy\Herança\Herança\obj\Debug\netcoreapp3.1\Herança.AssemblyInfo.cs
+C:\Users\abner\OneDrive\Área de Trabalho\C#\Udemy\Herança\Herança\obj\Debug\netcoreapp3.1\Herança.csproj.CoreCompileInputs.cache
+C:\Users\abner\OneDrive\Área de Trabalho\C#\Udemy\Herança\Herança\obj\Debug\netcoreapp3.1\Herança.dll
+C:\Users\abner\OneDrive\Área de Trabalho\C#\Udemy\Herança\Herança\obj\Debug\netcoreapp3.1\Herança.pdb
+C:\Users\abner\OneDrive\Área de Trabalho\C#\Udemy\Herança\Herança\obj\Debug\netcoreapp3.1\Herança.genruntimeconfig.cache
