@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\abner\\OneDrive\\Área de Trabalho\\Workspace\\Udemy\\Interfaces\\Interfaces\\Interfaces.csproj",
+      "projectUniqueName": "C:\\Users\\abner\\OneDrive\\Área de Trabalho\\Workspace\\Udemy\\Nova pasta\\C-Basico\\Interfaces\\Interfaces\\Interfaces.csproj",
       "projectName": "Interfaces",
-      "projectPath": "C:\\Users\\abner\\OneDrive\\Área de Trabalho\\Workspace\\Udemy\\Interfaces\\Interfaces\\Interfaces.csproj",
+      "projectPath": "C:\\Users\\abner\\OneDrive\\Área de Trabalho\\Workspace\\Udemy\\Nova pasta\\C-Basico\\Interfaces\\Interfaces\\Interfaces.csproj",
       "packagesPath": "C:\\Users\\abner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\abner\\OneDrive\\Área de Trabalho\\Workspace\\Udemy\\Interfaces\\Interfaces\\obj\\",
+      "outputPath": "C:\\Users\\abner\\OneDrive\\Área de Trabalho\\Workspace\\Udemy\\Nova pasta\\C-Basico\\Interfaces\\Interfaces\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abner\\AppData\\Roaming\\NuGet\\NuGet.Config",

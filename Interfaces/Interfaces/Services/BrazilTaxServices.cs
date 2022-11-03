@@ -1,7 +1,8 @@
 ﻿
 namespace Interfaces.Services
 {
-    class BrazilTaxServices
+    //realização de interface
+    class BrazilTaxServices : ITaxServices
     {
         public double Tax(double amount)
         {
